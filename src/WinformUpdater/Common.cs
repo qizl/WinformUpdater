@@ -9,14 +9,16 @@ namespace Com.EnjoyCodes.WinformUpdater
 {
     public class Common
     {
-        public string ConfigPath = Path.Combine(Environment.CurrentDirectory, "updaterconfig.xml");
+        public static string ConfigPath = Path.Combine(Environment.CurrentDirectory, "updaterconfig.xml");
 
-        public Config DefaultConfig = new Config()
+        public static Config DefaultConfig = new Config()
         {
+            SoftwareUpdateKey = Guid.Empty.ToString(),
+            ServerPath = "http://update.enjoycodes.com/",
             Interval = 10,
             LastCheckTime = DateTime.Now,
             AbortCheckTime = new TimeSpan()
         };
-        public Config Config { get; set; }
+        public static Config Config { get; set; }
     }
 }
