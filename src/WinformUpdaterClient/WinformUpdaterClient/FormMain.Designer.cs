@@ -1,4 +1,4 @@
-﻿namespace Com.Enjoycodes.WinformUpdaterClient
+﻿namespace Com.EnjoyCodes.WinformUpdaterClient
 {
     partial class FormMain
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Com.Enjoycodes.WinformUpdaterClient
+namespace Com.EnjoyCodes.WinformUpdaterClient
 {
     static class Program
     {

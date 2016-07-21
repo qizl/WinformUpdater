@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Com.Enjoycodes.WinformUpdaterClient.Properties {
+namespace Com.EnjoyCodes.WinformUpdaterClient.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Com.Enjoycodes.WinformUpdaterClient.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Com.Enjoycodes.WinformUpdaterClient.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Com.EnjoyCodes.WinformUpdaterClient.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

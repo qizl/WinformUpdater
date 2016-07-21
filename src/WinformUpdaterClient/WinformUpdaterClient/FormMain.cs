@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Com.Enjoycodes.WinformUpdaterClient
+namespace Com.EnjoyCodes.WinformUpdaterClient
 {
     public partial class FormMain : Form
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Com.Enjoycodes.WinformUpdaterClient.Properties {
+namespace Com.EnjoyCodes.WinformUpdaterClient.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
